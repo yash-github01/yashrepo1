@@ -1,0 +1,10 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is D8C2-2551
+
+ Directory of C:\devops\MyGITproject
+
+15-01-2019  14:14    <DIR>          .
+15-01-2019  14:14    <DIR>          ..
+15-01-2019  14:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  222,205,169,664 bytes free
